@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "video",
+      "description": "cool video",
+      "id": 1
+    },
+    {
+      "title": "Boxer Dogs",
+      "description": "Boxer puppies playing in a pool",
+      "id": 2
+    },
+    {
+      "title": "Spanky ",
+      "description": "Spanky playing with Frank",
+      "id": 7
+    }
+  ]
+}
